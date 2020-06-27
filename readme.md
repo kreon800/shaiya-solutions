@@ -2,7 +2,7 @@
 
 * notice sql injection
 * rune skill cutting
-* jump skill cutting
+* jump cutting
 * skill reset exploit
 * stealth exploits
 * cape enchantment
