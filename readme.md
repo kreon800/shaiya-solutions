@@ -6,5 +6,5 @@
 * skill reset exploit
 * stealth exploits
 * cape enchantment
-* gm dismmount crash
+* gm dismount crash
 
