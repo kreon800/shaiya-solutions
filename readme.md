@@ -7,4 +7,5 @@
 * stealth exploits
 * cape enchantment
 * gm dismount crash
+* nostrum exploit
 
