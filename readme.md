@@ -1,4 +1,4 @@
-**exploit solutions for multiple shaiya episodes**
+**solutions**
 
 * notice sql injection
 * rune skill cutting
