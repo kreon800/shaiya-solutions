@@ -14,5 +14,5 @@
 * injection solution - nubness
 * handshake solution - anton
 * 255 version solution - Bowie
-* reduce login attempts - Bowie
+* fewer login attempts - Bowie
 
