@@ -14,5 +14,5 @@
 * injection solution - nubness
 * handshake solution - anton
 * 255 version solution - Bowie
-* 3 failed logins = dc - Bowie
+* reduce login attempts - Bowie
 
